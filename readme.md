@@ -1,6 +1,6 @@
 # Chatbot con IA
 
-Este es un proyecto en el que usamos la api de OpenAI para la completar respuestas automatizadas para una tienda online.
+Este es un proyecto en el que se usa la api de OpenAI para completar respuestas automatizadas para una tienda online.
 
 ## Instalación en local
 
