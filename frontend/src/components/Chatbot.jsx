@@ -71,7 +71,7 @@ export default function Chatbot(props) {
         className='mt-2 sticky bottom-0 left-0 right-0'
         onSubmit={(e) => chat(e, message)}
       >
-        <div className='italic my-1'>{isTyping ? "Typing..." : ""}</div>
+        <div className='italic my-1'>{isTyping ? "Escribiendo..." : ""}</div>
         <input
           type="text"
           name="message"
