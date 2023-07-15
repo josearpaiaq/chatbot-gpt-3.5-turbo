@@ -15,7 +15,7 @@ export default function ChatBubble({ content, role }) {
       <p 
         className='font-bold'
       >
-        {role === 'user' ? 'You' : 'Belleza Online'}
+        {role === 'user' ? 'Usted' : 'Belleza Online'}
       </p> 
       {content}
     </div>
