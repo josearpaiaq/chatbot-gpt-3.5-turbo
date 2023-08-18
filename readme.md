@@ -4,9 +4,11 @@ Este es un proyecto en el que se usa la api de OpenAI para completar respuestas 
 
 ## Instalación en local
 
- 1. git clone 
+ 1. git clone
 
- 2. configurar las variables de entorno de las carpetas 'frontend' y 'backend'
+ 2. Este proyecto corre con la version 14 de node js
+
+ 3. configurar las variables de entorno de las carpetas 'frontend' y 'backend'
 
     ### Para el backend
     
